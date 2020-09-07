@@ -1,4 +1,4 @@
-<?php include('layouts/head.php') ?>
+<?php include('../layouts/head.php') ?>
 
 <style>
   body {
@@ -21,13 +21,11 @@
           <h5 class="card-title text-center">Entrar</h5>
           <form class="form-signin">
             <div class="form-label-group">
-              <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
-              <label for="inputEmail">Seu email</label>
+              <input type="email" id="inputEmail" class="form-control" placeholder="E-mail" required autofocus>
             </div>
 
             <div class="form-label-group">
-              <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
-              <label for="inputPassword">Sua senha</label>
+              <input type="password" id="inputPassword" class="form-control" placeholder="Senha" required>
             </div>
 
             <div class="custom-control custom-checkbox mb-3 mt-4">
@@ -47,4 +45,4 @@
   </div>
 </div>
 
-<?php include('layouts/footer.php') ?>
+<?php include('../layouts/footer.php') ?>
