@@ -51,8 +51,6 @@
                                     </div>
                                 </div>
                             
-
-
                                 <p class="pt-2 font-weight-bolder">Identificação</p>                            
                                 <div class="form-row">
                                     <div class="col-md-3 mb-3">
