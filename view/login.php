@@ -1,8 +1,8 @@
 <?php include('../layouts/head.php') ?>
 
-<div class="container-fluid">
+<div class="container-fluid" id="login-view">
 <?php include('../layouts/navbar.php') ?>
-  <div class="container" id="login-view">
+  <div class="container" >
 
     <div class="row">
       <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
@@ -23,7 +23,7 @@
                 <label class="custom-control-label" for="customCheck1">Lembrar senha</label>
               </div>
               
-              <button class=" mt-4 btn btn-lg btn-primary btn-block text-uppercase" type="submit">ENTRAR</button>
+              <a href="painel.php" class="mt-4 btn btn-primary btn-block text-uppercase">Entrar</a>
               
             </form>
           </div>
