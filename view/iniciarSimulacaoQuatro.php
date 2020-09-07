@@ -16,7 +16,7 @@
                             <form>
                                 <div class="form-group">
                                     <label for="disabledTextInput">Senha</label>
-                                    <input type="text" id="disabledTextInput" class="form-control" required>
+                                    <input type="password" id="disabledTextInput" class="form-control" required>
                                 </div>                                        
                             </form>
                         </div>

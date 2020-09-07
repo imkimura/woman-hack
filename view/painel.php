@@ -10,26 +10,7 @@
                 <div class="card my-5">
                     <div class="card-body">
                         <h5 class="card-title text-center">Mapeamento de Principais Competências Soft Skills</h5>            
-                        <div class="card-deck">
-                            <div class="card">
-                                <div class="card-body">
-                                    <h6 class="card-title text-center">Disciplinada</h6>
-                                    <h1 class="card-text text-center">9</p>
-                                </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-body">
-                                    <h6 class="card-title text-center">Disciplinada</h6>
-                                    <h1 class="card-text text-center">9</p>
-                                </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-body">
-                                    <h6 class="card-title text-center">Disciplinada</h6>
-                                    <h1 class="card-text text-center">9</p>
-                                </div>
-                            </div>
-                        </div>
+                        <p class="ml-4 text-center">Ainda não há dados para exibição. Por gentileza, realize uma simulação</p>
                     </div>
                 </div>
             </div>
