@@ -49,7 +49,7 @@
 
                     </div>
                     <div class="mb-4 btn-group mx-auto" role="group">
-                        <a href="iniciarSimulacaoUm.php" class="btn btn-lg btn-secondary">Voltar</a>
+                        <a href="iniciarSimulacaoSete.php" class="btn btn-lg btn-secondary">Voltar</a>
                         <a href="painelConcluido.php" class="btn btn-lg btn-primary disable">Continuar</a>
                     </div>
                 </div>

@@ -15,7 +15,7 @@
                     </div>
                     <div class="mb-4 btn-group mx-auto" role="group">
                         <a href="iniciarSimulacaoUm.php" class="btn btn-lg btn-secondary">Voltar</a>
-                        <a href="" class="btn btn-lg btn-secondary">Pular introdução ao MEI</a>
+                        <a href="iniciarJogoUm.php" class="btn btn-lg btn-secondary">Pular introdução ao MEI</a>
                         <a href="iniciarSimulacaoTres.php" class="btn btn-lg btn-primary">Continuar</a>
                     </div>
                 </div>
