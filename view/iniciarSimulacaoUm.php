@@ -12,7 +12,7 @@
                         <p class="ml-4">Repita a simulação quantas vezes julgar necessário.</p>
                         
                         <h5 class="pt-4 ml-4 text-secondary">Antes disso, será que todo mundo pode ser Microempreendedor Individual (MEI)?</h5>
-                        <p class="ml-4">Não, pois é necessário que empreendimento fature até R$81.000,00 por ano ou R$6750,00.</p>
+                        <p class="ml-4">Não, pois é necessário que empreendimento fature até R$81.000,00 por ano ou R$6750,00 por mês.</p>
                     </div>
                     <a href="iniciarSimulacaoDois.php" class="my-4 btn btn-lg btn-primary text-uppercase mx-auto" type="submit">Vamos Iniciar</a>
                 </div>

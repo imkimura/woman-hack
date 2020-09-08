@@ -112,7 +112,7 @@
                                 </div>
                                 <div class="form-row">
                                     <div class="col-md-6 mb-3">
-                                        <label for="validationCustom01">Capita Social</label>
+                                        <label for="validationCustom01">Capital Social</label>
                                         <input type="text" class="form-control" id="validationCustom01">
                                     </div>                                    
                                 </div>                            
